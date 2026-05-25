@@ -28,10 +28,9 @@ img {
 }
 
 
-button {
+#button {
     background-color: #FF4081;
-    border: 5px;
-    border-color: #D6336C;
+    border: 5px solid #FFB6C1;
     border-radius: 10px;
     color: white;
     padding: 15px 32px;
@@ -43,8 +42,7 @@ button {
 
 .button {
     background-color: #FFB6C1;
-    border: 5px;
-    border-color: #D6336C;
+    border: 5px solid #D6336C;
     border-radius: 10px;
     color: white;
     padding: 15px 32px;
