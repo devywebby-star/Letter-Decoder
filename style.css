@@ -9,11 +9,12 @@ html{
 
 img {
   width: 70px;
+  display: inline-block;
 }
 
 .letter{
   width: 70px;
-  display: inline;
+  display: inline-block;
 }
 
 
