@@ -15,7 +15,7 @@ img {
 
 .letter{
   width: 70px;
-  display: inline-block;
+  display: inline;
 }
 
 button {
