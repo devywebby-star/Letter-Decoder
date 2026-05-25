@@ -38,7 +38,7 @@ img {
 
 .parent {
   position: relative;
-  height: 300px; /* Requires a defined height */
+  height: 300px;
 }
 
 .child {
