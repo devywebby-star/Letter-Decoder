@@ -1,20 +1,28 @@
+:root {
+  --primary: #FF4081;
+  --light: #FFF5F8;
+  --dark: #D6336C;
+  --accent: #FFB6C1;
+}
+
 html{
-  background-color: #FFF5F8;
+  background-color: var(--light);
   padding: 25px;
-  color:#FF4081;
+  color:var(--primary);
   font-size: 20px;
   font-family: 'Annie Use Your Telescope',cursive;
   font-weight: 800px;
 }
 
 .box{
-  background-color: #FFB6C1;
+  background-color: var(--primary);
   padding-left: 25px;
   padding-right: 25px;
 }
 
 h2{
   font-family: 'Montserrat',sans-serif;
+  color:var(--dark);
 }
 
 img {
@@ -29,8 +37,8 @@ img {
 
 
 #button {
-    background-color: #FF4081;
-    border: 5px solid #FFB6C1;
+    background-color: var(--primary);
+    border: 5px solid var(--accent);
     border-radius: 10px;
     color: white;
     padding: 15px 32px;
@@ -41,8 +49,8 @@ img {
 }
 
 .button {
-    background-color: #FFB6C1;
-    border: 5px solid #D6336C;
+    background-color: var(--accent);
+    border: 5px solid var(--dark);
     border-radius: 10px;
     color: white;
     padding: 15px 32px;
