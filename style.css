@@ -39,7 +39,7 @@ img {
 
 #button {
     background-color: var(--primary);
-    border: 7px solid var(--accent);
+    border: 5px solid var(--accent);
     border-radius: 10px;
     color: white;
     padding: 15px 32px;
@@ -51,7 +51,7 @@ img {
 
 .button {
     background-color: var(--accent);
-    border: 7px solid var(--dark);
+    border: 5px solid var(--dark);
     border-radius: 10px;
     color: white;
     padding: 15px 32px;
