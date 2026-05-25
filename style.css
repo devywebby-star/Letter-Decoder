@@ -45,8 +45,8 @@ img {
   position: absolute;
   bottom: 25px;
   right: 25px;
-  background-color: var(--accent);
-  border: 2.5px solid var(--light);
+  background-color: var(--light);
+  border: 2.5px solid var(--accent);
   border-radius: 10px;
   color: black;
 }
