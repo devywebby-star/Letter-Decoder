@@ -7,6 +7,10 @@ html{
   font-weight: 800px;
 }
 
+h2{
+  font-family: 'Montserrat',sans-serif;
+}
+
 img {
   width: 70px;
   display: inline-block;
