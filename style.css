@@ -12,6 +12,11 @@ html{
 img {
   height: 70px;
 }
+
+table {
+  display: inline-block;
+}
+
 button {
     background-color: #982598;
     border: none;
