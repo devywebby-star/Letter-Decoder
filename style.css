@@ -9,6 +9,12 @@ html{
 
 .box{
   background-color: #FFB6C1;
+  width:100%;
+  position: absolute;
+}
+
+#font{
+  position: static;
 }
 
 h2{
