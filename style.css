@@ -43,7 +43,12 @@ img {
 
 .child {
   position: absolute;
-  bottom: 0;
+  bottom: 25px;
+  right: 25px;
+  background-color: var(--accent);
+  border: 2.5px solid var(--light);
+  border-radius: 10px;
+  color: black;
 }
 
 
