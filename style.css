@@ -36,6 +36,16 @@ img {
   display: inline-block;
 }
 
+.parent {
+  position: relative;
+  height: 300px; /* Requires a defined height */
+}
+
+.child {
+  position: absolute;
+  bottom: 0;
+}
+
 
 #button {
     background-color: var(--primary);
