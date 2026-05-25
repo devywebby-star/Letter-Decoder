@@ -10,10 +10,11 @@ html{
 }
 
 img {
-  height: 70px;
+  width: 70px;
 }
 
-table {
+.letter{
+  width: 70px;
   display: inline-block;
 }
 
