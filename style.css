@@ -42,9 +42,6 @@ img {
 }
 
 .child {
-  position: absolute;
-  bottom: 25px;
-  right: 25px;
   background-color: var(--light);
   border: 2.5px solid var(--accent);
   border-radius: 10px;
@@ -74,4 +71,12 @@ img {
     left: 15px;
     display: inline-block;
     font-size: 16px;
+}
+
+footer {
+  text-align: right;
+  color: var(--dark);
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
 }
