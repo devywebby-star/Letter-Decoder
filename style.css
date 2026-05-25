@@ -15,9 +15,10 @@ html{
 }
 
 .box{
-  background-color: var(--primary);
+  background-color: var(--accent);
   padding-left: 25px;
   padding-right: 25px;
+  top: 25px;
 }
 
 h2{
